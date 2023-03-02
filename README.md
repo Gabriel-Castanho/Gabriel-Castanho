@@ -1,6 +1,12 @@
-## Oii, Me chamo Gabriel Castanho e seja bem vindo!!!
-atualmente sou estudante de DATA SCIENCE com enfase em AI (Artifical Inteligence) e ANALISE DE DADOS (Visualização e Manipulação).
-    
+## Oii, Me chamo Gabriel Castanho.
+
+seja bem vindo!
+
+Atualmente sou curso Ciencia de dados e trabalho em uma startup focada em BI, la eu participo de todas as etapas do projeto, ou seja, sou responsável desde a arquitetura e ETL até a visualização dos dados.
+ <br><br>
+ <br><br>
+ <br><br>
+ <br><br>
 <div align="center">
   <a href="https://github.com/Gabriel-Castanho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castanho&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
