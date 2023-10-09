@@ -6,8 +6,8 @@ Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, H
 <div align="center">
   <a href="https://github.com/Gabriel-Castanho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castanho&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Castanho&layout=compact&langs_count=7&theme=darcula"/>
-</div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Castanho&theme=darcula"/>
+</div> 	
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
