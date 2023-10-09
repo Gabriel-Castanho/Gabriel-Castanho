@@ -2,7 +2,7 @@
 
 Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, Hoje sou responsável pela Arquitetura, Extração e Visualização dos Dados.
  <br><br>
-
+Quer me conhecer melhor? veja meu <span href;"https://gabriel-castanho.github.io/Meu-Portifolio/">portifólio!</span>
 <div align="center">
   <a href="https://github.com/Gabriel-Castanho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castanho&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
