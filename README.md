@@ -10,14 +10,11 @@ Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, H
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="gabriel-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="gabriel-MSSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="gabriel-MYSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center" alt="gabriel-TENSOR" height="60" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
- 
-  <img align="center" alt="gabriel-NUMPY" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="gabriel-R" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="gabriel-JUPYTER" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Azure" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="GCP" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Power BI" height="60" width="70" src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="SQL" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
  <br><br>
  <br><br>
 <div> 
