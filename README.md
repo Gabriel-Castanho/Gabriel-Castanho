@@ -2,9 +2,7 @@
 
 Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, Hoje sou responsável pela Arquitetura, Extração e Visualização dos Dados.
  <br><br>
- <br><br>
- <br><br>
- <br><br>
+
 <div align="center">
   <a href="https://github.com/Gabriel-Castanho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castanho&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
@@ -13,7 +11,7 @@ Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, H
   
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gabriel-MSSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="gabriel-MSSQL" height="70" width="80" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img align="center" alt="gabriel-MYSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="gabriel-TENSOR" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="gabriel-NUMPY" height="60" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
