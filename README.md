@@ -19,6 +19,8 @@ Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, H
  <br><br>
 <div> 
   <a href="www.linkedin.com/in/Gabriel-Castanho-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Gabriel-Castanho/Gabriel-Castanho/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://gabriel-castanho.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+
+
+
 </div>
