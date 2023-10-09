@@ -1,8 +1,6 @@
-## Oii, Me chamo Gabriel Castanho.
+## Bem vindo, Me chamo Gabriel Castanho.
 
-seja bem vindo!
-
-Atualmente sou curso Ciencia de dados e trabalho em uma startup focada em BI, la eu participo de todas as etapas do projeto, ou seja, sou responsável desde a arquitetura e ETL até a visualização dos dados.
+Atualmente sou Engenheiro de Dados e trabalho em uma consultoria focada em BI, Hoje sou responsável pela Arquitetura, Extração e Visualização dos Dados.
  <br><br>
  <br><br>
  <br><br>
